@@ -29,6 +29,16 @@
 
 <br>
 
+<h3 align="center">프로젝트 바로 가기</h3>
+<div align="center">
+  <a href="https://github.com/jm-316/clish" target="_blank">
+    <img src="https://img.shields.io/badge/1차%20프로젝트%20(CLISH)-6DB33F?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/jm-316/keanu_coffee" target="_blank">
+    <img src="https://img.shields.io/badge/2차%20프로젝트%20(KEANU%20COFFEE)-F7DF1E?style=for-the-badge" />
+  </a>
+</div>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:yoyo3302@gmail.com">
