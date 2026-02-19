@@ -6,9 +6,12 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />&nbsp
   <br>
   <!-- Web / Front Interaction -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/> 
@@ -36,6 +39,9 @@
   </a>
   <a href="https://github.com/jm-316/keanu_coffee" target="_blank">
     <img src="https://img.shields.io/badge/2차%20프로젝트%20(KEANU%20COFFEE)-F7DF1E?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/jm-316/Yeoun" target="_blank">
+    <img src="https://img.shields.io/badge/심화%20프로젝트%20(Yeoun)-D8DF1E?style=for-the-badge" />
   </a>
 </div>
 
